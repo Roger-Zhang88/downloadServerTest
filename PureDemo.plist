@@ -9,7 +9,7 @@
      <key>kind</key>
      <string>software-package</string>
      <key>url</key>
-     <string>https://github.com/Roger-Zhang88/downloadServerTest/blob/main/PureDemo.ipa</string>
+     <string>https://raw.githubusercontent.com/Roger-Zhang88/downloadServerTest/main/PureDemo.ipa</string>
     </dict>
     <dict>
      <key>kind</key>
@@ -17,7 +17,7 @@
      <key>need-shine</key>
      <integer>0</integer>
      <key>url</key>
-     <string>https://github.com/Roger-Zhang88/downloadServerTest/blob/main/PureDemo.jpeg</string>
+     <string>https://raw.githubusercontent.com/Roger-Zhang88/downloadServerTest/main/PureDemo.jpeg</string>
     </dict>
    </array>
    <key>metadata</key>
